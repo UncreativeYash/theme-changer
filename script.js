@@ -1,0 +1,1 @@
+const clickHere = para => document.documentElement.className = para;
