@@ -1,4 +1,4 @@
-# Random Quote Generator App
+# Theme Changer using javascript
 
 
 ## What I have Learnt
@@ -6,8 +6,8 @@
 - Change class name in root
 
 ## OutPut
-![Theme Changer](./dark.png)
-![Theme Changer](./light.png)
+![Theme Changer light](./dark.png)
+![Theme Changer Dark](./light.png)
 
 
 *Time took around 10 min in JS and rest 1 hr in css and html*
